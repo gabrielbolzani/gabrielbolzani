@@ -11,7 +11,7 @@
   <img align="center" alt="Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original-wordmark.svg">
   <img align="center" alt="Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-
+  <img align="center" alt="Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
 </div>
 
   
